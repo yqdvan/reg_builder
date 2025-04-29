@@ -1,2 +1,4 @@
 # reg_builder
-generate register code(verilog) from exlce defination.
+Generate register code(verilog) from exlce defination.
+
+**Python required.**
